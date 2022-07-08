@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karolina @Leszczynka
-- 🌱 I’m currently learning Python
+- 🌱 I’m developing my skills in Python
 - 📫 How to reach me: karolina.leszczynska05@gmail.com
 
 <!---
